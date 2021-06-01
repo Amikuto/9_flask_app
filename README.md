@@ -1,3 +1,15 @@
+# Отправка GET и POST запросов на мой микросервис
+![Alt Text](gitthings/gf.gif)
+
+# Apache server 
+![Alt Text](gitthings/kurtaev_site_apache.jpg)
+
+# HTTPS SSL security
+![Alt Text](gitthings/https_ssl_connection.jpg)
+
+## certificate
+![Alt Text](gitthings/certificate.jpg)
+
 ## Создание микросервиса
 
 ### Цель работы
